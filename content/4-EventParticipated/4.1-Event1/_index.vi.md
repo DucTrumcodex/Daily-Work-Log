@@ -107,6 +107,6 @@ Tham gia **FCAJ Community Day 2026** mang lại cho tôi nhiều kiến thức b
 
 ## Một số hình ảnh khi tham gia sự kiện
 
-![Hình ảnh tham gia FCAJ Community Day 2026](/Daily-Work-Log/images/4-EventParticipated/event-aws-1.png)
+![Hình ảnh tham gia FCAJ Community Day 2026](/images/4-EventParticipated/event-aws-1.png)
 
 > Tổng kết lại, FCAJ Community Day 2026 không chỉ giúp tôi cập nhật những xu hướng mới về AI, Cloud Computing và phát triển phần mềm mà còn mang đến nhiều bài học về tư duy, kỹ năng và định hướng nghề nghiệp. Những kiến thức và kinh nghiệm thu nhận được từ chương trình sẽ là nền tảng quan trọng để tôi tiếp tục hoàn thiện bản thân và chuẩn bị tốt hơn cho công việc trong tương lai.

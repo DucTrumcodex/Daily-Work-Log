@@ -28,7 +28,7 @@ chapter: false
 &emsp; **Internship Duration:** From 05/05/2026 to 30/07/2026
 
 <div style="text-align:center">
-	<img src="/Daily-Work-Log/images/avatar.jpg?v=4" alt="Trinh Dang Duc Anh" style="width:160px;display:block;margin:0 auto;" />
+	<img src="/images/avatar.jpg?v=5" alt="Trinh Dang Duc Anh" style="width:160px;display:block;margin:0 auto;" />
 </div>
 
 ### Report Content

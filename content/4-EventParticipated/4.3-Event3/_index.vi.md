@@ -68,6 +68,6 @@ Tham gia **AWS Knowledge Battle** là một điểm nhấn không thể quên tr
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-![AWS Knowledge Battle](/Daily-Work-Log/images/4-EventParticipated/4.3-Event3/Event3.1.png)
+![AWS Knowledge Battle](/images/4-EventParticipated/4.3-Event3/Event3.1.png)
 
 > Nhìn chung, sự kiện bơm cho tôi một sự tự tin rất lớn. Tôi đang vô cùng háo hức chờ đợi trận Chung kết để xem đội nào sẽ lên ngôi vô địch!

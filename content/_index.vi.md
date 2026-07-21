@@ -26,7 +26,7 @@ chapter: false
 &emsp; **Thời gian thực tập:** Từ ngày 05/05/2026 đến ngày 30/07/2026
 
 <div style="text-align:center">
-	<img src="/Daily-Work-Log/images/avatar.jpg?v=4" alt="Trịnh Đăng Đức Anh" style="width:160px;display:block;margin:0 auto;" />
+	<img src="/images/avatar.jpg?v=5" alt="Trịnh Đăng Đức Anh" style="width:160px;display:block;margin:0 auto;" />
 </div>
 
 ### Nội dung báo cáo
