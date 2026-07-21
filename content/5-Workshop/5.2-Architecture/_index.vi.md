@@ -74,7 +74,7 @@ Dự án sử dụng Serverless Framework (Node.js 20.x) để triển khai tự
 | **AWS CloudFormation** | Provision hạ tầng (qua Serverless) | Mọi tài nguyên gom thành một Stack; rollback/xóa sạch bằng một thao tác. |
 
 > **Ghi chú về Region/AZ:** Hệ thống không sử dụng VPC hay EC2, nên không cần cấu hình Availability Zone thủ công. AWS tự quản lý multi-AZ cho các dịch vụ managed (Lambda, DynamoDB, S3) bên trong region **ap-southeast-1**.
-
+![Amazon Cognito User Pool](https://res.cloudinary.com/dakqspssm/image/upload/v1774645236/Amazon_Cognito_User_Pool_nngeii.jpg)
 #### Tích hợp AI và dịch vụ bên thứ ba
 
 Trên sơ đồ, các tích hợp ngoài luồng API chính gồm khối **EXTERNAL** (Algolia, Gemini) và **ACCOUNT B — BEDROCK**:
