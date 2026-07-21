@@ -22,9 +22,9 @@ Trong quá trình thực tập, em đã tham gia các events, với mỗi event 
 
 
 ### [Event 2](4.2-Event2/)
-&emsp;**Tên sự kiện:** FCAJ Community Day - May 23
+&emsp;**Tên sự kiện:** FCAJ Soft Skills & Frontend AWS Meet
 
-&emsp;**Thời gian:** 23/05/2026
+&emsp;**Thời gian:** 13/06/2026
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 

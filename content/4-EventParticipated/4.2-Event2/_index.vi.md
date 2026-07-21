@@ -1,122 +1,110 @@
 ---
-title: "Event 2"
-date: 2026-05-23
+title: "Event 2 - Soft Skills & Frontend AWS"
+date: 2026-06-13
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Bài thu hoạch “FCAJ Community Day - May 23”
+## Mục Đích Của Sự Kiện
 
-### Mục Đích Của Sự Kiện
+Buổi meet cộng đồng FCAJ ngày **13/06/2026** được tổ chức nhằm giúp thực tập sinh và lập trình viên trẻ phát triển theo hai hướng bổ trợ nhau: **kỹ năng mềm nơi làm việc** và **các dịch vụ AWS phía Frontend** dùng trong sản phẩm thực tế.
 
-- Chia sẻ xu hướng AI, Cloud và cơ hội nghề nghiệp trong thời đại AI.
-- Hướng dẫn sử dụng AI hiệu quả trong học tập và phát triển phần mềm.
-- Giới thiệu các dịch vụ AWS và ứng dụng AI trong doanh nghiệp.
-- Cập nhật các tính năng mới của Amazon Q và Amazon CloudFront.
+Sự kiện hướng đến:
 
-### Danh Sách Diễn Giả
+- Rèn luyện tư duy phản biện, giao tiếp và giải quyết vấn đề.
+- Giải mã văn hóa doanh nghiệp và vai trò của từng cá nhân trong văn hóa đó.
+- Giới thiệu các dịch vụ AWS Frontend: **Amazon CloudFront**, **Amazon WAF** và **Amazon Amplify**.
+- Tạo không gian kết nối cho cộng đồng AWS / FCAJ.
 
-- **Nguyễn Gia Hưng** - AWS Solution Architect, Founder AWS Study Group
-- **Tịnh Trương** - Platform Engineer, GoTymeX
-- **Phạm Nguyễn Hải Anh** - Pacific Vietnam
-- **Nguyễn Tuấn Thịnh** - DevOps Engineer
-- **Lâm Hoàng Cát Vy** – Senior Business Systems Analyst
-- **Đào Minh Đức** – Solutions Architect 
+## Danh Sách Diễn Giả
 
+- Các diễn giả và mentor đến từ cộng đồng **AWS Cloud Journey / FCAJ**.
+- Nội dung chia sẻ gồm kỹ năng mềm, văn hóa doanh nghiệp và kiến trúc frontend trên AWS.
 
-### Nội Dung Nổi Bật
+## Nội Dung Nổi Bật
 
-#### AI và xu hướng nghề nghiệp
+### Tư duy phản biện, giao tiếp & giải quyết vấn đề
 
-- AI giúp giảm chi phí phát triển phần mềm, từ đó làm tăng nhu cầu xây dựng các ứng dụng mới.
-- Thị trường tuyển dụng ngày càng yêu cầu ứng viên có sản phẩm thực tế thay vì chỉ kiến thức lý thuyết.
-- Sinh viên cần trang bị kiến thức chuyên môn, kỹ năng mềm, tiếng Anh và portfolio để tăng khả năng cạnh tranh.
+- Học cách dùng tư duy phản biện để phân tích yêu cầu trước khi lao vào giải pháp kỹ thuật.
+- Luyện giao tiếp rõ ràng hơn khi trình bày ý tưởng với teammate và stakeholder.
+- Áp dụng quy trình giải quyết vấn đề có cấu trúc thay vì chỉ xử lý triệu chứng.
+- Hiểu rằng kỹ năng mềm quan trọng không kém kỹ năng lập trình trong môi trường doanh nghiệp.
 
-#### Context trong AI
+### Giải mã văn hóa doanh nghiệp
 
-- Chất lượng câu trả lời của AI phụ thuộc rất nhiều vào **context**.
-- Cần cung cấp đầy đủ mục tiêu, vai trò, ngữ cảnh dự án và định dạng mong muốn khi làm việc với AI.
-- Không nên sử dụng một cuộc hội thoại AI cho quá nhiều chủ đề khác nhau.
+- Văn hóa doanh nghiệp chính là **cách nghĩ, cách sống và cách làm việc** của từng người trong tổ chức.
+- Văn hóa không chỉ là slogan — nó thể hiện qua thói quen hằng ngày, tinh thần trách nhiệm và cách làm việc nhóm.
+- Mỗi cá nhân góp phần xây dựng văn hóa qua trách nhiệm, trung thực và tinh thần hợp tác.
+- Hiểu văn hóa giúp thực tập sinh thích nghi nhanh hơn và làm việc chuyên nghiệp hơn.
 
-#### AI First Mindset
+### Frontend trên AWS: CloudFront, WAF, Amplify
 
-- Giới thiệu các khái niệm **AI First**, **AI Adoption** và **Second Brain**.
-- AI nên được xem là công cụ hỗ trợ nâng cao năng suất thay vì thay thế hoàn toàn lập trình viên.
-- Khuyến khích xây dựng quy trình làm việc kết hợp giữa con người và AI.
+- **Amazon CloudFront**: CDN giúp đưa nội dung gần người dùng hơn, tăng hiệu năng và kết hợp tốt với lớp bảo mật.
+- **Amazon WAF**: tường lửa ứng dụng web, hỗ trợ bảo vệ app khỏi các tấn công web phổ biến.
+- **Amazon Amplify**: hỗ trợ xây dựng và host frontend nhanh, tích hợp hệ sinh thái AWS.
+- Nhìn thấy cách ba dịch vụ này phối hợp trong kiến trúc frontend + edge hiện đại.
 
-#### Amazon Q và AI Agents
+## Những Gì Học Được
 
-- Amazon Q hỗ trợ phân tích dữ liệu, tạo dashboard, tóm tắt cuộc họp và hỗ trợ lập trình.
-- AI Agent có thể kết nối với Gmail, Microsoft Teams, Calendar và nhiều dịch vụ khác để tự động hóa công việc.
-- Minh họa cách xây dựng AI Agent phục vụ nhu cầu doanh nghiệp.
+### Kỹ năng mềm
 
-#### Amazon CloudFront
+- Chia nhỏ vấn đề trước khi đề xuất giải pháp.
+- Luôn hỏi “Tại sao?” và làm rõ mục tiêu trước khi triển khai.
+- Giao tiếp ngắn gọn, dễ hiểu để người khác theo dõi được quyết định kỹ thuật.
 
-- Giới thiệu tính năng **Flat Rate Pricing** mới của CloudFront.
-- Giúp doanh nghiệp dễ dự đoán chi phí CDN và tối ưu ngân sách.
-- Tăng khả năng bảo vệ ứng dụng và cải thiện hiệu năng truy cập.
+### Tư duy chuyên nghiệp
 
-### Những Gì Học Được
+- Thích nghi với văn hóa nhóm và kỳ vọng nơi làm việc.
+- Chủ động chịu trách nhiệm với task được giao thay vì chờ hướng dẫn từng bước.
+- Xem góp ý là cơ hội cải thiện, không phải lời chỉ trích cá nhân.
 
-#### Tư Duy Phát Triển
+### Kiến thức kỹ thuật
 
-- AI sẽ trở thành công cụ hỗ trợ không thể thiếu trong quá trình phát triển phần mềm.
-- Việc xây dựng portfolio và các dự án thực tế quan trọng hơn chỉ học lý thuyết.
-- Luôn cập nhật các xu hướng công nghệ mới để nâng cao năng lực cạnh tranh.
+- Hiểu vai trò của CloudFront ở tầng edge để tăng tốc và phân phối toàn cầu.
+- Hiểu vì sao WAF quan trọng khi bảo vệ web app public.
+- Có cái nhìn tổng quan về Amplify trong quy trình host và deploy frontend.
 
-#### Kiến Thức Kỹ Thuật
+## Ứng Dụng Vào Công Việc
 
-- Hiểu vai trò của **context engineering** khi làm việc với AI.
-- Biết cách sử dụng Amazon Q và AI Agent để tự động hóa nhiều công việc.
-- Hiểu thêm về các tính năng mới của Amazon CloudFront và mô hình tính phí Flat Rate Pricing.
+Sau sự kiện, mình xác định một số hướng áp dụng cho dự án thực tập:
 
-#### Định Hướng Nghề Nghiệp
+- Giao tiếp rõ ràng hơn khi trao đổi tích hợp API / frontend với teammate.
+- Dùng tư duy giải quyết vấn đề có cấu trúc khi debug backend và UI.
+- Tìm hiểu sâu hơn CloudFront + WAF để tăng tốc và bảo vệ tài nguyên web.
+- Khám phá Amplify (hoặc mô hình host tương tự) để hiểu cách deliver frontend trên AWS.
+- Rèn các thói quen chuyên nghiệp phù hợp với văn hóa nhóm lành mạnh.
 
-- Nhà tuyển dụng đánh giá cao khả năng ứng dụng AI vào công việc.
-- Cần kết hợp kiến thức kỹ thuật với hiểu biết về nghiệp vụ doanh nghiệp.
-- Tự tin chia sẻ kiến thức và xây dựng thương hiệu cá nhân là lợi thế lớn khi tìm việc.
+## Trải Nghiệm Trong Event
 
-### Ứng Dụng Vào Công Việc
+Tham gia buổi meet FCAJ giúp mình có cái nhìn cân bằng giữa **kỹ năng con người** và **công nghệ frontend trên cloud**. Không khí sự kiện rất năng động, nhiều bạn sinh viên và kỹ sư trẻ chăm chú theo dõi và đặt câu hỏi.
 
-- Áp dụng AI để hỗ trợ lập trình, viết tài liệu và học tập hiệu quả hơn.
-- Cung cấp đầy đủ context khi sử dụng ChatGPT hoặc Amazon Q để nhận kết quả chính xác hơn.
-- Tìm hiểu và áp dụng AI Agent để tự động hóa các tác vụ lặp lại.
-- Nghiên cứu Amazon CloudFront nhằm tối ưu hiệu năng và chi phí cho các dự án triển khai trên AWS.
+### Môi trường học tập tích cực
 
-### Trải nghiệm trong event
+- Người tham dự tập trung nghe và trao đổi cởi mở.
+- Diễn giả gắn chủ đề soft skills với tình huống thực tế nơi làm việc.
+- Phần kỹ thuật giúp nhớ các dịch vụ AWS frontend dễ hơn nhờ sơ đồ trực quan.
 
-Tham gia **FCAJ Community Day - May 23** giúp tôi hiểu rõ hơn về xu hướng AI trong ngành CNTT cũng như cách các doanh nghiệp đang ứng dụng AI vào quy trình phát triển phần mềm. Nội dung chương trình không chỉ tập trung vào công nghệ AWS mà còn chia sẻ nhiều kinh nghiệm thực tế về định hướng nghề nghiệp và kỹ năng cần có trong thời đại AI.
+### Chia sẻ thực tế
 
-#### Học hỏi từ các diễn giả
+- Các buổi soft skills hữu ích trực tiếp cho teamwork trong kỳ thực tập.
+- Phần frontend giúp mình hình dung CloudFront, WAF và Amplify nằm ở đâu trong product stack.
+- Khoảnh khắc chụp ảnh tập thể thể hiện tinh thần cộng đồng mạnh của FCAJ / AWS Study Group.
 
-- Các diễn giả chia sẻ nhiều kinh nghiệm thực tế về phát triển phần mềm, DevOps, AI và Cloud.
-- Hiểu rõ hơn về vai trò của AI trong quy trình phát triển phần mềm hiện đại và xu hướng tuyển dụng hiện nay.
+### Định hướng nghề nghiệp
 
-#### Trải nghiệm kỹ thuật
+- Soft skills và hiểu văn hóa là điều kiện để phát triển vượt ra ngoài việc chỉ code.
+- Kiến thức frontend + edge AWS hữu ích cho hướng full-stack và cloud.
+- Event cộng đồng là nơi học nhanh hơn và giữ động lực tốt hơn.
 
-- Tìm hiểu cách sử dụng context để nâng cao hiệu quả khi làm việc với AI.
-- Quan sát các ví dụ thực tế về Amazon Q, AI Agent và khả năng tự động hóa công việc.
-- Hiểu thêm về tính năng Flat Rate Pricing của Amazon CloudFront và lợi ích trong việc kiểm soát chi phí.
+## Hình Ảnh Sự Kiện
 
-#### Ứng dụng thực tế
+![Buổi chia sẻ soft skills: tư duy phản biện, giao tiếp và giải quyết vấn đề](/images/4-EventParticipated/4.2-Event2/Event2-softskills.jpg)
 
-- Biết cách khai thác AI để hỗ trợ lập trình, phân tích dữ liệu và quản lý công việc.
-- Có thêm định hướng trong việc xây dựng portfolio, phát triển kỹ năng và chuẩn bị cho quá trình tìm kiếm việc làm.
+![Buổi chia sẻ về văn hóa doanh nghiệp](/images/4-EventParticipated/4.2-Event2/Event2-culture.jpg)
 
-#### Kết nối và trao đổi
+![Buổi Frontend: Amazon CloudFront, Amazon WAF và Amazon Amplify](/images/4-EventParticipated/4.2-Event2/Event2-frontend.jpg)
 
-- Có cơ hội giao lưu với các diễn giả và các bạn cùng đam mê AWS.
-- Học hỏi thêm nhiều kinh nghiệm học tập, phát triển bản thân và định hướng nghề nghiệp từ cộng đồng.
+![Ảnh tập thể cộng đồng FCAJ / AWS](/images/4-EventParticipated/4.2-Event2/Event2-group.jpg)
 
-#### Bài học rút ra
-
-- AI sẽ là kỹ năng quan trọng mà mỗi lập trình viên cần thành thạo.
-- Portfolio và các dự án thực tế ngày càng quan trọng trong quá trình tuyển dụng.
-- Việc liên tục cập nhật kiến thức mới và áp dụng AI đúng cách sẽ giúp nâng cao hiệu quả học tập và làm việc.
-
-#### Một số hình ảnh khi tham gia sự kiện
-
-![23-5.png](/images/4-EventParticipated/23-5.png)
-
-> Tổng thể, sự kiện giúp tôi hiểu rõ hơn về xu hướng AI và Cloud, đồng thời mang lại nhiều kinh nghiệm thực tế để áp dụng vào quá trình học tập, phát triển dự án và định hướng nghề nghiệp trong tương lai.
+> Tổng thể, sự kiện giúp mình nâng cả kỹ năng mềm lẫn kiến thức AWS frontend. Những bài học về tư duy phản biện, văn hóa doanh nghiệp và CloudFront / WAF / Amplify sẽ hỗ trợ công việc thực tập cũng như định hướng nghề nghiệp lâu dài.

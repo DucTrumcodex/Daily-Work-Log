@@ -19,9 +19,9 @@ During my internship, I participated in several events. Each one was a memorable
 ---
 
 ### [Event 2](4.2-Event2/)
-&emsp;**Event Name:** FCAJ Community Day - May 23
+&emsp;**Event Name:** FCAJ Soft Skills & Frontend AWS Meet
 
-&emsp;**Date & Time:** May 23, 2026
+&emsp;**Date & Time:** June 13, 2026
 
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 

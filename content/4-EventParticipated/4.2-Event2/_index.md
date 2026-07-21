@@ -1,121 +1,110 @@
 ---
-title: "Event 2"
-date: 2026-05-23
+title: "Event 2 - Soft Skills & Frontend AWS"
+date: 2026-06-13
 weight: 2
 chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
+## Event Objectives
 
-# Summary Report: “FCAJ Community Day - May 23”
+The FCAJ community meet on **June 13, 2026** was organized to help interns and young developers grow in two complementary directions: **soft skills for the workplace** and **AWS frontend services** used in real products.
 
-### Event Objectives
+The event aimed to:
 
-- Share the latest trends in AI, Cloud, and career opportunities in the AI era.
-- Demonstrate how to effectively use AI for learning and software development.
-- Introduce AWS services and AI applications in enterprise environments.
-- Present new features of Amazon Q and Amazon CloudFront.
+- Strengthen critical thinking, communication, and problem-solving skills.
+- Decode corporate culture and how individuals contribute to it.
+- Introduce AWS frontend services: **Amazon CloudFront**, **Amazon WAF**, and **Amazon Amplify**.
+- Create a networking space for the AWS / FCAJ community.
 
-### Speakers
+## Speakers
 
-- **Nguyen Gia Hung** – AWS Solution Architect, Founder of AWS Study Group
-- **Tinh Truong** – Platform Engineer, GoTymeX
-- **Pham Nguyen Hai Anh** – Pacific Vietnam
-- **Nguyen Tuan Thinh** – DevOps Engineer
-- **Lam Hoang Cat Vy** – Senior Business Systems Analyst
-- **Dao Minh Duc** – Solutions Architect 
-### Key Highlights
+- Speakers and mentors from the **AWS Cloud Journey / FCAJ** community.
+- Sharing sessions covered soft skills, corporate culture, and AWS frontend architecture.
 
-#### AI and Career Trends
+## Key Highlights
 
-- AI helps reduce software development costs, enabling businesses to build more applications.
-- Employers increasingly value practical experience and real projects over theoretical knowledge alone.
-- Students should strengthen their technical knowledge, soft skills, English proficiency, and personal portfolio to stay competitive.
+### Critical thinking, communication & problem-solving
 
-#### Context in AI
+- Learned how critical thinking helps analyze requirements before jumping into a technical solution.
+- Practiced clearer communication when explaining ideas to teammates and stakeholders.
+- Applied structured problem-solving instead of fixing symptoms only.
+- Understood that soft skills are as important as coding ability in a real company environment.
 
-- The quality of AI-generated responses depends heavily on the provided **context**.
-- Users should clearly define goals, roles, project context, and expected output format when interacting with AI.
-- It is recommended not to mix multiple unrelated topics within the same AI conversation.
+### Decoding corporate culture
 
-#### AI First Mindset
+- Corporate culture is the way people in a company **think, live, and work**.
+- Culture is not only slogans on the wall — it shows up in daily habits, ownership, and teamwork.
+- Each person contributes to culture through responsibility, integrity, and how they collaborate.
+- Understanding culture helps interns adapt faster and work more professionally.
 
-- Introduced concepts such as **AI First**, **AI Adoption**, and **Second Brain**.
-- AI should be viewed as a productivity tool that supports developers rather than replacing them.
-- Encouraged building workflows that effectively combine human expertise with AI capabilities.
+### Frontend on AWS: CloudFront, WAF, Amplify
 
-#### Amazon Q and AI Agents
+- **Amazon CloudFront**: CDN that delivers content closer to users, improves performance, and works well with security layers.
+- **Amazon WAF**: Web Application Firewall that helps protect applications from common web attacks.
+- **Amazon Amplify**: Helps build and host frontend applications quickly with AWS integration.
+- Saw how these three services work together in a modern frontend + edge architecture.
 
-- Amazon Q can assist with data analysis, dashboard creation, meeting summarization, and programming support.
-- AI Agents can integrate with Gmail, Microsoft Teams, Calendar, and other services to automate repetitive tasks.
-- Demonstrated how AI Agents can be applied in enterprise scenarios.
+## What I Learned
 
-#### Amazon CloudFront
+### Soft skills
 
-- Introduced the new **Flat Rate Pricing** model for Amazon CloudFront.
-- Helps organizations predict CDN costs more accurately and optimize budgets.
-- Improves application performance while enhancing security and cost management.
+- Break problems into smaller parts before proposing a solution.
+- Ask “Why?” and clarify goals before implementing.
+- Communicate concisely so others can follow technical decisions easily.
 
-### Key Takeaways
+### Professional mindset
 
-#### Development Mindset
+- Adapt to team culture and workplace expectations.
+- Take ownership of assigned tasks instead of waiting to be told every step.
+- Treat feedback as a chance to improve, not as personal criticism.
 
-- AI will become an essential assistant throughout the software development lifecycle.
-- Building a strong portfolio and real-world projects is more valuable than relying solely on theoretical knowledge.
-- Continuously learning emerging technologies is essential for maintaining competitiveness.
+### Technical knowledge
 
-#### Technical Knowledge
+- Understood the role of CloudFront at the edge for speed and global delivery.
+- Learned why WAF is important for protecting public web apps.
+- Got an overview of Amplify for frontend hosting and deployment workflows.
 
-- Understood the importance of **context engineering** when working with AI tools.
-- Learned how Amazon Q and AI Agents can automate various development and business tasks.
-- Gained a better understanding of Amazon CloudFront's new Flat Rate Pricing model and its benefits.
+## Application to Work
 
-#### Career Development
+After the event, I identified several actions for my internship project:
 
-- Employers highly value candidates who can effectively leverage AI in their daily work.
-- Combining technical expertise with business knowledge creates greater professional value.
-- Sharing knowledge and building a personal brand can provide significant career advantages.
+- Apply clearer communication when discussing API / frontend integration with teammates.
+- Use structured problem-solving when debugging backend and UI issues.
+- Study CloudFront + WAF more deeply for securing and accelerating web assets.
+- Explore Amplify (or similar hosting patterns) to understand modern frontend delivery on AWS.
+- Practice professional habits that match a healthy team culture.
 
-### Applying to Work
+## Event Experience
 
-- Use AI to support programming, documentation, and learning activities.
-- Provide sufficient context when using ChatGPT or Amazon Q to obtain more accurate responses.
-- Explore AI Agents to automate repetitive tasks in software projects.
-- Learn more about Amazon CloudFront to optimize application performance and deployment costs on AWS.
+Joining this FCAJ meet gave me a balanced view of both **people skills** and **cloud frontend technology**. The atmosphere was energetic, with many students and young engineers actively listening and asking questions.
 
-### Event Experience
+### A positive learning environment
 
-Participating in **FCAJ Community Day - May 23** gave me a deeper understanding of AI trends in the IT industry and how organizations are adopting AI throughout the software development process. The event covered not only AWS technologies but also practical insights into career development and the skills required in the AI era.
+- Participants focused on the talks and exchanged ideas openly.
+- Speakers connected soft skills topics with real workplace situations.
+- The technical session made AWS frontend services easier to remember through clear diagrams.
 
-#### Learning from the Speakers
+### Practical sharing
 
-- The speakers shared valuable real-world experiences in software development, DevOps, AI, and Cloud technologies.
-- Their presentations provided a clearer understanding of AI's role in modern software engineering and current hiring trends.
+- Soft skills sessions were directly useful for internship teamwork.
+- The frontend talk helped me see how CloudFront, WAF, and Amplify fit into a full product stack.
+- The group photo moment reflected a strong sense of community in FCAJ / AWS Study Group.
 
-#### Technical Experience
+### Career direction
 
-- Learned how proper context can significantly improve AI-generated results.
-- Observed practical demonstrations of Amazon Q, AI Agents, and workflow automation.
-- Gained insights into Amazon CloudFront's Flat Rate Pricing model and its advantages for cost management.
+- Soft skills and culture awareness are required to grow beyond coding tasks.
+- Frontend + edge AWS knowledge is valuable for full-stack and cloud-oriented careers.
+- Community events are a good place to learn faster and stay motivated.
 
-#### Practical Applications
+## Event Photos
 
-- Learned how AI can be applied to programming, data analysis, and task management.
-- Gained useful ideas for building a stronger portfolio and preparing for future career opportunities.
+![Soft skills session: critical thinking, communication, and problem-solving](/images/4-EventParticipated/4.2-Event2/Event2-softskills.jpg)
 
-#### Networking and Discussions
+![Corporate culture sharing session](/images/4-EventParticipated/4.2-Event2/Event2-culture.jpg)
 
-- Had the opportunity to interact with speakers and AWS community members.
-- Learned from others' experiences in studying AWS, personal development, and career planning.
+![Frontend session: Amazon CloudFront, Amazon WAF, and Amazon Amplify](/images/4-EventParticipated/4.2-Event2/Event2-frontend.jpg)
 
-#### Lessons Learned
+![FCAJ / AWS community group photo](/images/4-EventParticipated/4.2-Event2/Event2-group.jpg)
 
-- AI will become an essential skill for future software engineers.
-- A strong portfolio and hands-on projects are increasingly important in the recruitment process.
-- Continuously learning new technologies and using AI effectively can significantly improve both learning and productivity.
-
-#### Some Event Photos
-
-![23-5.png](/images/4-EventParticipated/23-5.png)
-
-> Overall, the event provided valuable insights into AI and Cloud technologies while offering practical knowledge that I can apply to my studies, software projects, and future career development.
+> Overall, the event helped me improve both soft skills and AWS frontend knowledge. The lessons on critical thinking, corporate culture, and CloudFront / WAF / Amplify will support my internship work and long-term career growth.
