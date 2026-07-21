@@ -1,6 +1,6 @@
 :root {
   --MAIN-TEXT-color: #323235; /* Color of text by default */
-  --MAIN-TITLES-TEXT-color: #778ba5; /* Color of titles h2-h3-h4-h5 */
+  --MAIN-TITLES-TEXT-color: #3a4a5c; /* Color of titles h2-h3-h4-h5 */
   --MAIN-LINK-color: #4881cd; /* Color of links */
   --MAIN-LINK-HOVER-color: #599af1; /* Color of hovered links */
   --MAIN-ANCHOR-color: #4881cd; /* color of anchors on titles */
@@ -220,6 +220,39 @@ a.ui-button:active,
 
 pre {
   background-color: var(--MENU-SECTIONS-BG-color) !important;
+}
+
+/* Sidebar labels were washed out by global h3 !important color */
+#sidebar #shortcuts h3 {
+  color: #ffffff !important;
+  opacity: 1;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
+#sidebar #footer,
+#sidebar #footer b,
+#sidebar #footer a,
+#sidebar #prefooter,
+#sidebar #prefooter a {
+  color: #e8e8e8 !important;
+}
+
+#sidebar #footer font,
+#sidebar #footer i a {
+  color: #fd9827 !important;
+}
+
+/* Keep language select compact; avoid oversized native control blob */
+#sidebar .select-style {
+  max-width: 140px;
+  vertical-align: middle;
+}
+
+#sidebar .select-style select {
+  color: #e8e8e8;
+  font-size: 14px;
+  max-width: 120px;
 }
 
 div.notices.info p {
