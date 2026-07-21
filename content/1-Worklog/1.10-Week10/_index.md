@@ -18,11 +18,11 @@ pre: " <b> 1.10. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---- | ---------- | --------------- | ------------------ |
-| 2 | - Refine Avatar API/flow in the project <br> - Review S3/CloudFront permissions in use | 06/07/2026 | 06/07/2026 | - |
-| 3 | - Design EventBridge use cases for the project <br> - Create rules/targets for automation | 07/07/2026 | 07/07/2026 | - |
-| 4 | - Integrate EventBridge into the project flow <br> - Test triggers and processing results | 08/07/2026 | 08/07/2026 | - |
-| 5 | - Fix Avatar/Shop/EventBridge bugs <br> - Optimize retry/timeout if needed | 09/07/2026 | 09/07/2026 | - |
-| 6 | - Update the project architecture diagram <br> - Note the EventBridge configuration deployed | 10/07/2026 | 10/07/2026 | - |
+| 2 | - Refine Avatar API/flow in the project <br> - Review S3/CloudFront permissions in use | 06/07/2026 | 06/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 3 | - Design EventBridge use cases for the project <br> - Create rules/targets for automation | 07/07/2026 | 07/07/2026 | [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 4 | - Integrate EventBridge into the project flow <br> - Test triggers and processing results | 08/07/2026 | 08/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 5 | - Fix Avatar/Shop/EventBridge bugs <br> - Optimize retry/timeout if needed | 09/07/2026 | 09/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 6 | - Update the project architecture diagram <br> - Note the EventBridge configuration deployed | 10/07/2026 | 10/07/2026 | [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
 
 
 ### Week 10 Achievements:

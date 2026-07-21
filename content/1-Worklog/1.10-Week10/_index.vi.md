@@ -18,11 +18,11 @@ pre: " <b> 1.10. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
-| 2 | - Hoàn thiện API/luồng Avatar trong đồ án <br> - Rà soát quyền S3/CloudFront đang dùng | 06/07/2026 | 06/07/2026 | - |
-| 3 | - Thiết kế use-case EventBridge cho đồ án <br> - Tạo rule/target kích hoạt tác vụ tự động | 07/07/2026 | 07/07/2026 | - |
-| 4 | - Tích hợp EventBridge vào luồng xử lý đồ án <br> - Test trigger và kết quả xử lý | 08/07/2026 | 08/07/2026 | - |
-| 5 | - Fix bug Avatar/Shop/EventBridge <br> - Tối ưu retry/timeout nếu cần | 09/07/2026 | 09/07/2026 | - |
-| 6 | - Cập nhật sơ đồ kiến trúc đồ án <br> - Ghi chú cấu hình EventBridge đã triển khai | 10/07/2026 | 10/07/2026 | - |
+| 2 | - Hoàn thiện API/luồng Avatar trong đồ án <br> - Rà soát quyền S3/CloudFront đang dùng | 06/07/2026 | 06/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 3 | - Thiết kế use-case EventBridge cho đồ án <br> - Tạo rule/target kích hoạt tác vụ tự động | 07/07/2026 | 07/07/2026 | [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 4 | - Tích hợp EventBridge vào luồng xử lý đồ án <br> - Test trigger và kết quả xử lý | 08/07/2026 | 08/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 5 | - Fix bug Avatar/Shop/EventBridge <br> - Tối ưu retry/timeout nếu cần | 09/07/2026 | 09/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 6 | - Cập nhật sơ đồ kiến trúc đồ án <br> - Ghi chú cấu hình EventBridge đã triển khai | 10/07/2026 | 10/07/2026 | [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
 
 
 ### Kết quả đạt được tuần 10:

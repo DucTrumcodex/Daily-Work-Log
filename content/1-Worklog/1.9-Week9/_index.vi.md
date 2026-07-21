@@ -18,11 +18,11 @@ pre: " <b> 1.9. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
-| 2 | - Dựng tài nguyên nền cho đồ án (S3, quyền truy cập) <br> - Chuẩn bị môi trường dev/test | 29/06/2026 | 29/06/2026 | - |
-| 3 | - Implement upload/lưu avatar lên S3 <br> - Gắn CloudFront để hiển thị ảnh | 30/06/2026 | 30/06/2026 | - |
-| 4 | - Phát triển danh sách/item cơ bản của Shop <br> - Kết nối dữ liệu hiển thị trên UI | 01/07/2026 | 01/07/2026 | - |
-| 5 | - Cải tiến giao diện Profile & Shop <br> - Đồng bộ UI với luồng dữ liệu đồ án | 02/07/2026 | 02/07/2026 | - |
-| 6 | - Fix bug chức năng cốt lõi <br> - Cập nhật tiến độ đồ án và sơ đồ nếu có thay đổi | 03/07/2026 | 03/07/2026 | - |
+| 2 | - Dựng tài nguyên nền cho đồ án (S3, quyền truy cập) <br> - Chuẩn bị môi trường dev/test | 29/06/2026 | 29/06/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 3 | - Implement upload/lưu avatar lên S3 <br> - Gắn CloudFront để hiển thị ảnh | 30/06/2026 | 30/06/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 4 | - Phát triển danh sách/item cơ bản của Shop <br> - Kết nối dữ liệu hiển thị trên UI | 01/07/2026 | 01/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 5 | - Cải tiến giao diện Profile & Shop <br> - Đồng bộ UI với luồng dữ liệu đồ án | 02/07/2026 | 02/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) |
+| 6 | - Fix bug chức năng cốt lõi <br> - Cập nhật tiến độ đồ án và sơ đồ nếu có thay đổi | 03/07/2026 | 03/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
 
 
 ### Kết quả đạt được tuần 9:

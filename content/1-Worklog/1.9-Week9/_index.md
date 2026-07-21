@@ -18,11 +18,11 @@ pre: " <b> 1.9. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | ---- | ---------- | --------------- | ------------------ |
-| 2 | - Set up base project resources (S3, access permissions) <br> - Prepare the dev/test environment | 29/06/2026 | 29/06/2026 | - |
-| 3 | - Implement avatar upload/storage to S3 <br> - Attach CloudFront for image display | 30/06/2026 | 30/06/2026 | - |
-| 4 | - Develop basic Shop listing/items <br> - Connect data display on the UI | 01/07/2026 | 01/07/2026 | - |
-| 5 | - Improve Profile & Shop UI <br> - Align UI with the project data flow | 02/07/2026 | 02/07/2026 | - |
-| 6 | - Fix core feature bugs <br> - Update project progress and diagram if changed | 03/07/2026 | 03/07/2026 | - |
+| 2 | - Set up base project resources (S3, access permissions) <br> - Prepare the dev/test environment | 29/06/2026 | 29/06/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 3 | - Implement avatar upload/storage to S3 <br> - Attach CloudFront for image display | 30/06/2026 | 30/06/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 4 | - Develop basic Shop listing/items <br> - Connect data display on the UI | 01/07/2026 | 01/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
+| 5 | - Improve Profile & Shop UI <br> - Align UI with the project data flow | 02/07/2026 | 02/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) |
+| 6 | - Fix core feature bugs <br> - Update project progress and diagram if changed | 03/07/2026 | 03/07/2026 | [AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play) <br> [AWSServerless](https://github.com/KhangChinh/AWSServerless) |
 
 
 ### Week 9 Achievements:
