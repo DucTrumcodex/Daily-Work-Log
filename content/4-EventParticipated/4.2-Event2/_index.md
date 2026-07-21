@@ -116,6 +116,6 @@ Participating in **FCAJ Community Day - May 23** gave me a deeper understanding 
 
 #### Some Event Photos
 
-![23-5.png](/images/4-EventParticipated/23-5.png)
+![23-5.png](/Daily-Work-Log/images/4-EventParticipated/23-5.png)
 
 > Overall, the event provided valuable insights into AI and Cloud technologies while offering practical knowledge that I can apply to my studies, software projects, and future career development.

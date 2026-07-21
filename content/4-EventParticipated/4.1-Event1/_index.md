@@ -107,6 +107,6 @@ Attending **FCAJ Community Day 2026** gave me useful knowledge and strong motiva
 
 ## Event Photos
 
-![FCAJ Community Day 2026 group photo](/images/4-EventParticipated/event-aws-1.png)
+![FCAJ Community Day 2026 group photo](/Daily-Work-Log/images/4-EventParticipated/event-aws-1.png)
 
 > Overall, FCAJ Community Day 2026 not only helped me stay updated on AI, Cloud Computing, and software development trends, but also provided lessons on mindset, skills, and career direction. The knowledge and experience from the program will be an important foundation for me to keep improving and prepare better for future work.

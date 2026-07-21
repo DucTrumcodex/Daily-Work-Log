@@ -68,6 +68,6 @@ Joining **AWS Knowledge Battle** was an unforgettable highlight of my internship
 
 #### Some Event Photos
 
-![AWS Knowledge Battle](/images/4-EventParticipated/4.3-Event3/Event3.1.png)
+![AWS Knowledge Battle](/Daily-Work-Log/images/4-EventParticipated/4.3-Event3/Event3.1.png)
 
 > Overall, the event gave me a big boost of confidence. I am really looking forward to the Finals to see which team will take the championship!
