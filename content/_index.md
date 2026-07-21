@@ -28,7 +28,7 @@ chapter: false
 &emsp; **Internship Duration:** From 05/05/2026 to 30/07/2026
 
 <div style="text-align:center">
-	<img src="/images/avatar.jpg?v=2" alt="Your profile picture" style="width:160px;display:block;margin:0 auto;" />
+	<img src="/images/avatar.jpg?v=3" alt="Your profile picture" style="width:160px;display:block;margin:0 auto;" />
 </div>
 
 ### Report Content

@@ -21,7 +21,7 @@ Trong quá trình thực tập, em đã tham gia các events, với mỗi event 
 
 
 
-### [Event 3](4.3-Event3/)
+### [Event 2](4.2-Event2/)
 &emsp;**Tên sự kiện:** FCAJ Community Day - May 23
 
 &emsp;**Thời gian:** 23/05/2026
@@ -32,10 +32,10 @@ Trong quá trình thực tập, em đã tham gia các events, với mỗi event 
 
 
 
-### [Event 4](4.4-Event4/)
-&emsp;**Tên sự kiện:** DATA DRIVEN, AI RISEN
+### [Event 3](4.3-Event3/)
+&emsp;**Tên sự kiện:** AWS Knowledge Battle - Đấu trường Kiến thức AWS
 
-&emsp;**Thời gian:** 27/06/2026
+&emsp;**Thời gian:** 20/06/2026
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 

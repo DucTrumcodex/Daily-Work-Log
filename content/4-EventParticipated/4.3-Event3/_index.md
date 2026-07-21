@@ -1,121 +1,73 @@
 ---
-title: "Event 3"
-date: 2026-05-23
+title: "Event 3 - AWS Knowledge Battle"
+date: 2026-06-20
 weight: 3
 chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-
-# Summary Report: “FCAJ Community Day - May 23”
+# Summary Report: “AWS Knowledge Battle”
 
 ### Event Objectives
 
-- Share the latest trends in AI, Cloud, and career opportunities in the AI era.
-- Demonstrate how to effectively use AI for learning and software development.
-- Introduce AWS services and AI applications in enterprise environments.
-- Present new features of Amazon Q and Amazon CloudFront.
+- Deliver an interactive, high-energy quiz arena experience.
+- Give participants a chance to re-test their AWS knowledge under time pressure.
+- Create a fun networking opportunity with the Cloud and AWS community.
 
-### Speakers
+### Competition Format
 
-- **Nguyen Gia Hung** – AWS Solution Architect, Founder of AWS Study Group
-- **Tinh Truong** – Platform Engineer, GoTymeX
-- **Pham Nguyen Hai Anh** – Pacific Vietnam
-- **Nguyen Tuan Thinh** – DevOps Engineer
-- **Lam Hoang Cat Vy** – Senior Business Systems Analyst
-- **Dao Minh Duc** – Solutions Architect 
+- **Participants**: 6 teams competed head-to-head.
+- **Pairing**: Teams were matched in a 1-vs-1 knockout bracket.
+- **Progress**: Winning teams advanced through the bracket toward the Finals (currently postponed).
+
 ### Key Highlights
 
-#### AI and Career Trends
+#### Question content and difficulty
+- The quiz was split into 3 clear difficulty levels — from foundational AWS knowledge to architecture design thinking.
+- The hardest (Advanced) questions were highly decisive, with only 1–2 per round determining the outcome.
 
-- AI helps reduce software development costs, enabling businesses to build more applications.
-- Employers increasingly value practical experience and real projects over theoretical knowledge alone.
-- Students should strengthen their technical knowledge, soft skills, English proficiency, and personal portfolio to stay competitive.
+#### Decision-making under time pressure
+- Head-to-head play with a countdown forced players to trust intuition and quick reflexes on concepts (such as DynamoDB Partition keys or SQS Visibility Timeout).
 
-#### Context in AI
-
-- The quality of AI-generated responses depends heavily on the provided **context**.
-- Users should clearly define goals, roles, project context, and expected output format when interacting with AI.
-- It is recommended not to mix multiple unrelated topics within the same AI conversation.
-
-#### AI First Mindset
-
-- Introduced concepts such as **AI First**, **AI Adoption**, and **Second Brain**.
-- AI should be viewed as a productivity tool that supports developers rather than replacing them.
-- Encouraged building workflows that effectively combine human expertise with AI capabilities.
-
-#### Amazon Q and AI Agents
-
-- Amazon Q can assist with data analysis, dashboard creation, meeting summarization, and programming support.
-- AI Agents can integrate with Gmail, Microsoft Teams, Calendar, and other services to automate repetitive tasks.
-- Demonstrated how AI Agents can be applied in enterprise scenarios.
-
-#### Amazon CloudFront
-
-- Introduced the new **Flat Rate Pricing** model for Amazon CloudFront.
-- Helps organizations predict CDN costs more accurately and optimize budgets.
-- Improves application performance while enhancing security and cost management.
+#### Identifying knowledge gaps
+- The team handled Backend questions smoothly thanks to hands-on experience from the PeriodIQ project.
+- However, advanced networking topics such as Transit Gateway routing rules still created pressure.
 
 ### Key Takeaways
 
-#### Development Mindset
-
-- AI will become an essential assistant throughout the software development lifecycle.
-- Building a strong portfolio and real-world projects is more valuable than relying solely on theoretical knowledge.
-- Continuously learning emerging technologies is essential for maintaining competitiveness.
-
 #### Technical Knowledge
+- Reinforced understanding of asynchronous processing flows and advanced architecture patterns.
+- Recognized Networking topics that need to be strengthened going forward.
 
-- Understood the importance of **context engineering** when working with AI tools.
-- Learned how Amazon Q and AI Agents can automate various development and business tasks.
-- Gained a better understanding of Amazon CloudFront's new Flat Rate Pricing model and its benefits.
-
-#### Career Development
-
-- Employers highly value candidates who can effectively leverage AI in their daily work.
-- Combining technical expertise with business knowledge creates greater professional value.
-- Sharing knowledge and building a personal brand can provide significant career advantages.
+#### Teamwork Skills
+- Learned the importance of rapid discussion and locking an answer within seconds.
+- Clear role split: IAM specialists handled security questions; Serverless specialists owned architecture questions.
+- Experienced a realistic simulation of how engineering teams brainstorm and troubleshoot under pressure.
 
 ### Applying to Work
 
-- Use AI to support programming, documentation, and learning activities.
-- Provide sufficient context when using ChatGPT or Amazon Q to obtain more accurate responses.
-- Explore AI Agents to automate repetitive tasks in software projects.
-- Learn more about Amazon CloudFront to optimize application performance and deployment costs on AWS.
+- Use the tough architecture questions to double-check the accuracy of the async flow SQS -> Lambda -> SES recently built in the project.
+- Apply fast problem-solving skills when fixing backend bugs and opening the Dashboard API for PeriodIQ (Week 10).
 
 ### Event Experience
 
-Participating in **FCAJ Community Day - May 23** gave me a deeper understanding of AI trends in the IT industry and how organizations are adopting AI throughout the software development process. The event covered not only AWS technologies but also practical insights into career development and the skills required in the AI era.
+Joining **AWS Knowledge Battle** was an unforgettable highlight of my internship. The event served as a perfect review session for everything I had studied during the first 5 weeks.
 
-#### Learning from the Speakers
+#### Learning from the competition
+- Competing live was completely different from answering questions at home — it turned theory into real reflexes.
+- Built confidence and validated my understanding of AWS concepts.
 
-- The speakers shared valuable real-world experiences in software development, DevOps, AI, and Cloud technologies.
-- Their presentations provided a clearer understanding of AI's role in modern software engineering and current hiring trends.
+#### Networking and exchange
+- The energetic atmosphere made it easy to connect with others who share a passion for AWS.
+- Cheering together created a strong sense of community.
 
-#### Technical Experience
-
-- Learned how proper context can significantly improve AI-generated results.
-- Observed practical demonstrations of Amazon Q, AI Agents, and workflow automation.
-- Gained insights into Amazon CloudFront's Flat Rate Pricing model and its advantages for cost management.
-
-#### Practical Applications
-
-- Learned how AI can be applied to programming, data analysis, and task management.
-- Gained useful ideas for building a stronger portfolio and preparing for future career opportunities.
-
-#### Networking and Discussions
-
-- Had the opportunity to interact with speakers and AWS community members.
-- Learned from others' experiences in studying AWS, personal development, and career planning.
-
-#### Lessons Learned
-
-- AI will become an essential skill for future software engineers.
-- A strong portfolio and hands-on projects are increasingly important in the recruitment process.
-- Continuously learning new technologies and using AI effectively can significantly improve both learning and productivity.
+#### Lessons learned
+- Sharpness and intuition matter when solving system problems under time pressure.
+- Spotting knowledge gaps is the best stepping stone for continued skill growth.
+- Teamwork is essential when tackling tough technical challenges.
 
 #### Some Event Photos
 
-![23-5.png](/images/4-EventParticipated/23-5.png)
+![AWS Knowledge Battle](/images/4-EventParticipated/4.3-Event3/Event3.1.png)
 
-> Overall, the event provided valuable insights into AI and Cloud technologies while offering practical knowledge that I can apply to my studies, software projects, and future career development.
+> Overall, the event gave me a big boost of confidence. I am really looking forward to the Finals to see which team will take the championship!

@@ -18,7 +18,7 @@ During my internship, I participated in several events. Each one was a memorable
 
 ---
 
-### [Event 3](4.3-Event3/)
+### [Event 2](4.2-Event2/)
 &emsp;**Event Name:** FCAJ Community Day - May 23
 
 &emsp;**Date & Time:** May 23, 2026
@@ -29,10 +29,10 @@ During my internship, I participated in several events. Each one was a memorable
 
 ---
 
-### [Event 4](4.4-Event4/)
-&emsp;**Event Name:** DATA DRIVEN, AI RISEN
+### [Event 3](4.3-Event3/)
+&emsp;**Event Name:** AWS Knowledge Battle - AWS Knowledge Arena
 
-&emsp;**Date & Time:** June 27, 2026
+&emsp;**Date & Time:** June 20, 2026
 
 &emsp;**Location:** 26th Floor, Bitexco Tower, 02 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
 

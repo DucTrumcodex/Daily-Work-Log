@@ -1,122 +1,73 @@
 ---
-title: "Event 3"
-date: 2026-05-23
+title: "Event 3 - AWS Knowledge Battle (Đấu trường Kiến thức AWS)"
+date: 2026-06-20
 weight: 3
 chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Bài thu hoạch “FCAJ Community Day - May 23”
+# Bài thu hoạch “AWS Knowledge Battle - Đấu trường Kiến thức AWS”
 
 ### Mục Đích Của Sự Kiện
 
-- Chia sẻ xu hướng AI, Cloud và cơ hội nghề nghiệp trong thời đại AI.
-- Hướng dẫn sử dụng AI hiệu quả trong học tập và phát triển phần mềm.
-- Giới thiệu các dịch vụ AWS và ứng dụng AI trong doanh nghiệp.
-- Cập nhật các tính năng mới của Amazon Q và Amazon CloudFront.
+- Mang đến một "Sân chơi Trắc nghiệm" bùng nổ và mang tính tương tác cao.
+- Tạo cơ hội để người tham dự kiểm tra lại toàn bộ kiến thức AWS dưới áp lực thời gian.
+- Tạo dịp giao lưu kết nối cực kỳ vui vẻ với cộng đồng đam mê Cloud và AWS.
 
-### Danh Sách Diễn Giả
+### Thể Thức Thi Đấu
 
-- **Nguyễn Gia Hưng** - AWS Solution Architect, Founder AWS Study Group
-- **Tịnh Trương** - Platform Engineer, GoTymeX
-- **Phạm Nguyễn Hải Anh** - Pacific Vietnam
-- **Nguyễn Tuấn Thịnh** - DevOps Engineer
-- **Lâm Hoàng Cát Vy** – Senior Business Systems Analyst
-- **Đào Minh Đức** – Solutions Architect 
-
+- **Số lượng tham gia**: Cuộc thi quy tụ 6 đội tham gia tranh tài trực tiếp.
+- **Bắt cặp**: Các đội được chia cặp đấu loại trực tiếp 1-1 (1-vs-1).
+- **Diễn biến**: Các đội chiến thắng tiếp tục tiến sâu vào nhánh đấu cho đến tận trận Chung kết (hiện đang được hoãn lại).
 
 ### Nội Dung Nổi Bật
 
-#### AI và xu hướng nghề nghiệp
+#### Nội dung và độ khó của câu hỏi
+- Bài thi được chia thành 3 mức độ khó rõ rệt — trải dài từ kiến thức AWS cơ bản cho đến tư duy thiết kế kiến trúc.
+- Mức độ khó nhất (Nâng cao) mang tính chất phân loại cực cao, chỉ chiếm đúng 1-2 câu trong mỗi vòng đấu để định đoạt kết quả.
 
-- AI giúp giảm chi phí phát triển phần mềm, từ đó làm tăng nhu cầu xây dựng các ứng dụng mới.
-- Thị trường tuyển dụng ngày càng yêu cầu ứng viên có sản phẩm thực tế thay vì chỉ kiến thức lý thuyết.
-- Sinh viên cần trang bị kiến thức chuyên môn, kỹ năng mềm, tiếng Anh và portfolio để tăng khả năng cạnh tranh.
+#### Ra quyết định dưới áp lực thời gian
+- Việc thi đấu đối kháng với đồng hồ đếm ngược ép người chơi phải tin vào trực giác và phản xạ nhanh với các khái niệm (như Partition key của DynamoDB hay Visibility Timeout của SQS).
 
-#### Context trong AI
-
-- Chất lượng câu trả lời của AI phụ thuộc rất nhiều vào **context**.
-- Cần cung cấp đầy đủ mục tiêu, vai trò, ngữ cảnh dự án và định dạng mong muốn khi làm việc với AI.
-- Không nên sử dụng một cuộc hội thoại AI cho quá nhiều chủ đề khác nhau.
-
-#### AI First Mindset
-
-- Giới thiệu các khái niệm **AI First**, **AI Adoption** và **Second Brain**.
-- AI nên được xem là công cụ hỗ trợ nâng cao năng suất thay vì thay thế hoàn toàn lập trình viên.
-- Khuyến khích xây dựng quy trình làm việc kết hợp giữa con người và AI.
-
-#### Amazon Q và AI Agents
-
-- Amazon Q hỗ trợ phân tích dữ liệu, tạo dashboard, tóm tắt cuộc họp và hỗ trợ lập trình.
-- AI Agent có thể kết nối với Gmail, Microsoft Teams, Calendar và nhiều dịch vụ khác để tự động hóa công việc.
-- Minh họa cách xây dựng AI Agent phục vụ nhu cầu doanh nghiệp.
-
-#### Amazon CloudFront
-
-- Giới thiệu tính năng **Flat Rate Pricing** mới của CloudFront.
-- Giúp doanh nghiệp dễ dự đoán chi phí CDN và tối ưu ngân sách.
-- Tăng khả năng bảo vệ ứng dụng và cải thiện hiệu năng truy cập.
+#### Nhận diện lỗ hổng kiến thức
+- Team xử lý mượt các câu hỏi Backend nhờ kinh nghiệm thực tế từ dự án PeriodIQ.
+- Tuy nhiên vẫn bị "khớp" ở các câu mạng lưới nâng cao như luật định tuyến Transit Gateway.
 
 ### Những Gì Học Được
 
-#### Tư Duy Phát Triển
-
-- AI sẽ trở thành công cụ hỗ trợ không thể thiếu trong quá trình phát triển phần mềm.
-- Việc xây dựng portfolio và các dự án thực tế quan trọng hơn chỉ học lý thuyết.
-- Luôn cập nhật các xu hướng công nghệ mới để nâng cao năng lực cạnh tranh.
-
 #### Kiến Thức Kỹ Thuật
+- Củng cố sự hiểu biết về các luồng xử lý bất đồng bộ và kiến trúc nâng cao.
+- Nhận ra những mảng kiến thức mạng lưới (Networking) cần phải học bù trong tương lai.
 
-- Hiểu vai trò của **context engineering** khi làm việc với AI.
-- Biết cách sử dụng Amazon Q và AI Agent để tự động hóa nhiều công việc.
-- Hiểu thêm về các tính năng mới của Amazon CloudFront và mô hình tính phí Flat Rate Pricing.
-
-#### Định Hướng Nghề Nghiệp
-
-- Nhà tuyển dụng đánh giá cao khả năng ứng dụng AI vào công việc.
-- Cần kết hợp kiến thức kỹ thuật với hiểu biết về nghiệp vụ doanh nghiệp.
-- Tự tin chia sẻ kiến thức và xây dựng thương hiệu cá nhân là lợi thế lớn khi tìm việc.
+#### Kỹ Năng Làm Việc Nhóm (Teamwork)
+- Nhận ra tầm quan trọng của việc thảo luận nhanh và chốt đáp án chỉ trong vài giây.
+- Phân công vai trò rõ ràng: người rành IAM xử lý bảo mật, người rành Serverless gánh phần kiến trúc.
+- Trải nghiệm mô phỏng chân thực cách các đội kỹ sư ngoài đời thực brainstorm và gỡ lỗi sự cố.
 
 ### Ứng Dụng Vào Công Việc
 
-- Áp dụng AI để hỗ trợ lập trình, viết tài liệu và học tập hiệu quả hơn.
-- Cung cấp đầy đủ context khi sử dụng ChatGPT hoặc Amazon Q để nhận kết quả chính xác hơn.
-- Tìm hiểu và áp dụng AI Agent để tự động hóa các tác vụ lặp lại.
-- Nghiên cứu Amazon CloudFront nhằm tối ưu hiệu năng và chi phí cho các dự án triển khai trên AWS.
+- Dùng các câu hỏi kiến trúc hóc búa để kiểm chứng lại độ chuẩn xác của luồng bất đồng bộ SQS -> Lambda -> SES vừa xây dựng trong dự án.
+- Áp dụng kỹ năng xử lý vấn đề nhanh nhạy vào việc fix bug backend và mở Dashboard API cho dự án PeriodIQ (Tuần 10).
 
 ### Trải nghiệm trong event
 
-Tham gia **FCAJ Community Day - May 23** giúp tôi hiểu rõ hơn về xu hướng AI trong ngành CNTT cũng như cách các doanh nghiệp đang ứng dụng AI vào quy trình phát triển phần mềm. Nội dung chương trình không chỉ tập trung vào công nghệ AWS mà còn chia sẻ nhiều kinh nghiệm thực tế về định hướng nghề nghiệp và kỹ năng cần có trong thời đại AI.
+Tham gia **AWS Knowledge Battle** là một điểm nhấn không thể quên trong kỳ thực tập của tôi. Sự kiện đóng vai trò như một buổi tổng ôn tập hoàn hảo cho toàn bộ kiến thức tôi đã cày cuốc trong 5 tuần đầu tiên.
 
-#### Học hỏi từ các diễn giả
-
-- Các diễn giả chia sẻ nhiều kinh nghiệm thực tế về phát triển phần mềm, DevOps, AI và Cloud.
-- Hiểu rõ hơn về vai trò của AI trong quy trình phát triển phần mềm hiện đại và xu hướng tuyển dụng hiện nay.
-
-#### Trải nghiệm kỹ thuật
-
-- Tìm hiểu cách sử dụng context để nâng cao hiệu quả khi làm việc với AI.
-- Quan sát các ví dụ thực tế về Amazon Q, AI Agent và khả năng tự động hóa công việc.
-- Hiểu thêm về tính năng Flat Rate Pricing của Amazon CloudFront và lợi ích trong việc kiểm soát chi phí.
-
-#### Ứng dụng thực tế
-
-- Biết cách khai thác AI để hỗ trợ lập trình, phân tích dữ liệu và quản lý công việc.
-- Có thêm định hướng trong việc xây dựng portfolio, phát triển kỹ năng và chuẩn bị cho quá trình tìm kiếm việc làm.
+#### Học hỏi từ cuộc thi
+- Trải nghiệm thi đấu hoàn toàn khác biệt so với việc ngồi nhà trả lời câu hỏi, giúp biến lý thuyết thành phản xạ thực chiến.
+- Khẳng định được sự tự tin và sự am hiểu kiến thức của bản thân.
 
 #### Kết nối và trao đổi
-
-- Có cơ hội giao lưu với các diễn giả và các bạn cùng đam mê AWS.
-- Học hỏi thêm nhiều kinh nghiệm học tập, phát triển bản thân và định hướng nghề nghiệp từ cộng đồng.
+- Bầu không khí sôi động giúp tôi dễ dàng giao lưu với cộng đồng những người có cùng đam mê AWS.
+- Cùng nhau hò reo cổ vũ đã tạo ra một sự gắn kết rất lớn.
 
 #### Bài học rút ra
-
-- AI sẽ là kỹ năng quan trọng mà mỗi lập trình viên cần thành thạo.
-- Portfolio và các dự án thực tế ngày càng quan trọng trong quá trình tuyển dụng.
-- Việc liên tục cập nhật kiến thức mới và áp dụng AI đúng cách sẽ giúp nâng cao hiệu quả học tập và làm việc.
+- Sự nhạy bén và trực giác là kỹ năng quan trọng khi đối diện với bài toán hệ thống dưới áp lực thời gian.
+- Việc phát hiện ra các lỗ hổng kiến thức chính là bước đệm tốt nhất để tiếp tục hoàn thiện kỹ năng.
+- Sức mạnh của làm việc nhóm là không thể bàn cãi khi giải quyết các sự cố hóc búa.
 
 #### Một số hình ảnh khi tham gia sự kiện
 
-![23-5.png](/images/4-EventParticipated/23-5.png)
+![AWS Knowledge Battle](/images/4-EventParticipated/4.3-Event3/Event3.1.png)
 
-> Tổng thể, sự kiện giúp tôi hiểu rõ hơn về xu hướng AI và Cloud, đồng thời mang lại nhiều kinh nghiệm thực tế để áp dụng vào quá trình học tập, phát triển dự án và định hướng nghề nghiệp trong tương lai.
+> Nhìn chung, sự kiện bơm cho tôi một sự tự tin rất lớn. Tôi đang vô cùng háo hức chờ đợi trận Chung kết để xem đội nào sẽ lên ngôi vô địch!
