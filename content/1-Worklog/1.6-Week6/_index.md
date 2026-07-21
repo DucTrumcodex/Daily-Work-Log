@@ -8,7 +8,7 @@ pre: " <b> 1.6. </b> "
 
 
 
-### Week 6 Objectives (module learning):
+### Week 6 Objectives:
 
 * Learn the Amazon CloudFront module for static content delivery.
 * Learn AWS Systems Manager (Session Manager) for safer EC2 management.

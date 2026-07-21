@@ -8,7 +8,7 @@ pre: " <b> 1.1. </b> "
 
 
 
-### Week 1 Objectives (module learning / onboarding):
+### Week 1 Objectives:
 
 * Clearly understand the rules and regulations related to AWS and the project.
 * Connect and get acquainted with members in First Cloud AI Journey.

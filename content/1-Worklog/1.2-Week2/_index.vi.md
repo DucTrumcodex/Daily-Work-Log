@@ -8,7 +8,7 @@ pre: " <b> 1.2. </b> "
 
 
 
-### Mục tiêu tuần 2 (học module):
+### Mục tiêu tuần 2:
 
 * Làm quen với AWS Management Console và cách tìm, truy cập các dịch vụ cơ bản.
 * Tìm hiểu kiến thức nền tảng về VPC, Internet Gateway và NAT Gateway.

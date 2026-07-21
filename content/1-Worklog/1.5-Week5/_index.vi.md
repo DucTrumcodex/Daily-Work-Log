@@ -8,7 +8,7 @@ pre: " <b> 1.5. </b> "
 
 
 
-### Mục tiêu tuần 5 (học module):
+### Mục tiêu tuần 5:
 
 * Nghiên cứu Amazon S3: tạo bucket, upload dữ liệu.
 * Cấu hình quyền truy cập bucket (Block Public Access, Bucket Policy).

@@ -8,7 +8,7 @@ pre: " <b> 1.9. </b> "
 
 
 
-### Mục tiêu tuần 9 (làm đồ án):
+### Mục tiêu tuần 9:
 
 * Bắt đầu triển khai phần cốt lõi của đồ án trên AWS.
 * Xây dựng chức năng Profile/Avatar (lưu S3, phân phối CloudFront).

@@ -8,7 +8,7 @@ pre: " <b> 1.8. </b> "
 
 
 
-### Week 8 Objectives (project work):
+### Week 8 Objectives:
 
 * Finalize the project topic and feature scope.
 * Analyze requirements, use cases, and system components.

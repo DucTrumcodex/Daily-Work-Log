@@ -8,7 +8,7 @@ pre: " <b> 1.12. </b> "
 
 
 
-### Week 12 Objectives (project work):
+### Week 12 Objectives:
 
 * Review all materials learned in the FCJ program.
 * Summarize internship content, update the worklog, and complete the progress report.

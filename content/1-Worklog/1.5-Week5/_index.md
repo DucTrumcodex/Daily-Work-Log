@@ -8,7 +8,7 @@ pre: " <b> 1.5. </b> "
 
 
 
-### Week 5 Objectives (module learning):
+### Week 5 Objectives:
 
 * Study Amazon S3: create buckets and upload data.
 * Configure bucket access (Block Public Access, Bucket Policy).

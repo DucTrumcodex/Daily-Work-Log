@@ -8,7 +8,7 @@ pre: " <b> 1.10. </b> "
 
 
 
-### Mục tiêu tuần 10 (làm đồ án):
+### Mục tiêu tuần 10:
 
 * Tiếp tục phát triển đồ án: hoàn thiện API/luồng Avatar và Shop.
 * Tích hợp Amazon EventBridge để tự động hóa tác vụ trong đồ án.

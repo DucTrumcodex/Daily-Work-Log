@@ -8,7 +8,7 @@ pre: " <b> 1.4. </b> "
 
 
 
-### Mục tiêu tuần 4 (học module):
+### Mục tiêu tuần 4:
 
 * Nắm vững AWS IAM: User, Group, Role, Policy.
 * Thiết lập phân quyền theo nguyên tắc least privilege.

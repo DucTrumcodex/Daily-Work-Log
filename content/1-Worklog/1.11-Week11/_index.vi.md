@@ -8,7 +8,7 @@ pre: " <b> 1.11. </b> "
 
 
 
-### Mục tiêu tuần 11 (làm đồ án):
+### Mục tiêu tuần 11:
 
 * Kiểm thử tổng thể đồ án theo các luồng chính.
 * Tối ưu hiệu năng và trải nghiệm người dùng.

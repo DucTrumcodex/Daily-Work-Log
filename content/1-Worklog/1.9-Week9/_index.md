@@ -8,7 +8,7 @@ pre: " <b> 1.9. </b> "
 
 
 
-### Week 9 Objectives (project work):
+### Week 9 Objectives:
 
 * Start implementing the project core on AWS.
 * Build Profile/Avatar features (store on S3, deliver via CloudFront).

@@ -8,7 +8,7 @@ pre: " <b> 1.3. </b> "
 
 
 
-### Week 3 Objectives (module learning):
+### Week 3 Objectives:
 
 * Use AWS CLI to create and manage resources instead of only using the Console.
 * Learn Amazon ElastiCache (Redis) as a caching layer.

@@ -8,7 +8,7 @@ pre: " <b> 1.6. </b> "
 
 
 
-### Mục tiêu tuần 6 (học module):
+### Mục tiêu tuần 6:
 
 * Học module Amazon CloudFront để phân phối nội dung tĩnh.
 * Học module AWS Systems Manager (Session Manager) để quản lý EC2 an toàn hơn.

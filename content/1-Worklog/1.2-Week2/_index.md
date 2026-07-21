@@ -8,7 +8,7 @@ pre: " <b> 1.2. </b> "
 
 
 
-### Week 2 Objectives (module learning):
+### Week 2 Objectives:
 
 * Get familiar with the AWS Management Console and how to find/access basic services.
 * Learn foundational knowledge about VPC, Internet Gateway, and NAT Gateway.

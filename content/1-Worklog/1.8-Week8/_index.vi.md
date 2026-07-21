@@ -8,7 +8,7 @@ pre: " <b> 1.8. </b> "
 
 
 
-### Mục tiêu tuần 8 (làm đồ án):
+### Mục tiêu tuần 8:
 
 * Chốt hướng đề tài đồ án và phạm vi chức năng cần làm.
 * Phân tích yêu cầu, use-case và các thành phần hệ thống.

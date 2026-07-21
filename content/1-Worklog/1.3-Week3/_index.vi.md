@@ -8,7 +8,7 @@ pre: " <b> 1.3. </b> "
 
 
 
-### Mục tiêu tuần 3 (học module):
+### Mục tiêu tuần 3:
 
 * Sử dụng AWS CLI để tạo và quản lý tài nguyên thay vì chỉ dùng Console.
 * Tìm hiểu Amazon ElastiCache (Redis) làm bộ nhớ đệm.

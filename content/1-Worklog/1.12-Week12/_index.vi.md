@@ -8,7 +8,7 @@ pre: " <b> 1.12. </b> "
 
 
 
-### Mục tiêu tuần 12 (làm đồ án):
+### Mục tiêu tuần 12:
 
 * Tổng quan lại toàn bộ tài liệu đã học trong chương trình FCJ.
 * Tổng hợp nội dung thực tập, cập nhật worklog và hoàn thiện báo cáo tiến độ.

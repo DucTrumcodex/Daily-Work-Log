@@ -7,7 +7,7 @@ pre: " <b> 1.1. </b> "
 ---
 
 
-### Mục tiêu tuần 1 (học module / onboarding):
+### Mục tiêu tuần 1:
 
 * Nắm rõ các nội quy, quy định liên quan đến AWS và dự án.
 * Kết nối, làm quen với các thành viên trong First Cloud AI Journey.

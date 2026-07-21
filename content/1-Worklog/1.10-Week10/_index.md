@@ -8,7 +8,7 @@ pre: " <b> 1.10. </b> "
 
 
 
-### Week 10 Objectives (project work):
+### Week 10 Objectives:
 
 * Continue project development: refine Avatar and Shop API/flows.
 * Integrate Amazon EventBridge to automate project tasks.

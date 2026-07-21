@@ -8,7 +8,7 @@ pre: " <b> 1.4. </b> "
 
 
 
-### Week 4 Objectives (module learning):
+### Week 4 Objectives:
 
 * Master AWS IAM: User, Group, Role, and Policy.
 * Set up permissions using least privilege.

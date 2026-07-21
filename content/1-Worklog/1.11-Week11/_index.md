@@ -8,7 +8,7 @@ pre: " <b> 1.11. </b> "
 
 
 
-### Week 11 Objectives (project work):
+### Week 11 Objectives:
 
 * Run overall project testing for main flows.
 * Optimize performance and user experience.
