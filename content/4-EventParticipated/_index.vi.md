@@ -10,14 +10,14 @@ pre: " <b> 4. </b> "
 
 Trong quá trình thực tập, em đã tham gia các events, với mỗi event là một trải nghiệm đáng nhớ với những kiến thức mới, hay và bổ ích, cùng với đó là những món quà và những khoảnh khắc rất tuyệt vời.
 
-### [Event mẫu](4.1-Event-Mau/)
-&emsp;**Tên sự kiện:** [Tên sự kiện]
+### [Event 1](4.1-Event1/)
+&emsp;**Tên sự kiện:** FCAJ Community Day 2026
 
-&emsp;**Thời gian:** [Ngày/tháng/năm]
+&emsp;**Thời gian:** 09/05/2026
 
-&emsp;**Địa điểm:** [Địa điểm tổ chức]
+&emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 
-&emsp;**Vai trò trong sự kiện:** [Người tham dự / Tình nguyện viên / ...]
+&emsp;**Vai trò trong sự kiện:** Người tham dự
 
 
 
@@ -28,7 +28,7 @@ Trong quá trình thực tập, em đã tham gia các events, với mỗi event 
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
+&emsp;**Vai trò trong sự kiện:** Người tham dự
 
 
 
@@ -39,4 +39,4 @@ Trong quá trình thực tập, em đã tham gia các events, với mỗi event 
 
 &emsp;**Địa điểm:** Tầng 26, tòa nhà Bitexco, số 02 đường Hải Triều, phường Sài Gòn, thành phố Hồ Chí Minh
 
-&emsp;**Vai trò trong sự kiện:** Người tham dự 
+&emsp;**Vai trò trong sự kiện:** Người tham dự

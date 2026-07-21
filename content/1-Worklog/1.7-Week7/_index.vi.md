@@ -1,41 +1,40 @@
 ---
 title: "Worklog Tuần 7"
-date: 2024-01-01
+date: 2026-06-15
 weight: 7
 chapter: false
 pre: " <b> 1.7. </b> "
 ---
 
 
-### Mục tiêu tuần 7:
 
-* Security Hub: Gom nhóm và quản lý cảnh báo bảo mật tập trung.
-* IAM Condition: Giới hạn quyền truy cập chặt chẽ theo khung giờ và địa chỉ IP.
-* IAM Boundary: Đặt mức trần quyền hạn để chặn lỗi leo thang đặc quyền.
-* VPC Endpoints: Tạo đường mạng riêng tư để truy cập S3 mà không qua Internet.
+### Mục tiêu tuần 7 (học module):
+
+* Học module AWS CloudFormation để dựng hạ tầng bằng template.
+* Học module VPC Flow Logs để theo dõi lưu lượng mạng.
+* Ôn lại kiến thức bảo mật IAM nâng cao (Condition/Boundary) nếu có trong lộ trình module.
+* Tổng kết giai đoạn học module (tuần 1–7) trước khi sang làm đồ án.
 
 ### Các công việc cần triển khai trong tuần này:
-| Thứ | Công việc                                                                                                                                                                                   | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu                            |
-| --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | --------------- | ----------------------------------------- |
-| 2 | - Thực hành AWS Security Hub:<br>&emsp; + Bật tính năng AWS Security Hub.<br>&emsp; + Gom các cảnh báo bảo mật về chung một bảng điều khiển.<br>&emsp; + Xem điểm số bảo mật của hệ thống.<br>&emsp; + Dọn dẹp tài nguyên. | 01/06/2026 | 01/06/2026 | <https://000018.awsstudygroup.com/> |
-| 3 | - Quản lý quyền với IAM Role & Condition:<br>&emsp; + Tạo các nhóm (Group) và người dùng (User) cơ bản.<br>&emsp; + Cấu hình mượn quyền (Switch role) cho Admin.<br>&emsp; + Cài đặt khóa quyền chỉ cho phép truy cập đúng IP.<br>&emsp; + Khóa quyền chỉ cho phép truy cập theo khung giờ.<br>&emsp; + Dọn dẹp tài nguyên. | 02/06/2026 | 02/06/2026 | <https://000044.awsstudygroup.com/> |
-| 4 | - Chặn quyền với IAM Permission Boundary:<br>&emsp; + Tạo các chính sách giới hạn quyền hạn (Restriction Policy).<br>&emsp; + Gắn ranh giới quyền này cho User.<br>&emsp; + Thử đăng nhập và test xem User có bị chặn quyền không.<br>&emsp; + Dọn dẹp tài nguyên. | 03/06/2026 | 03/06/2026 | <https://000030.awsstudygroup.com/> |
-| 5 | - Kết nối S3 riêng tư (Phần 1 - VPC):<br>&emsp; + Tạo cổng kết nối Gateway Endpoint.<br>&emsp; + Kết nối đến S3 trực tiếp từ trong mạng VPC.<br>&emsp; + Đảm bảo dữ liệu không bị tuồn ra ngoài Internet.<br>&emsp; + Dọn dẹp tài nguyên. | 04/06/2026 | 04/06/2026 | - |
-| 6 | - Kết nối S3 riêng tư (Phần 2 - On-premises):<br>&emsp; + Chuẩn bị và giả lập mạng nội bộ (On-premises).<br>&emsp; + Tạo cổng kết nối Interface Endpoint.<br>&emsp; + Dùng DNS để truy cập S3 an toàn từ mạng nội bộ.<br>&emsp; + Dọn dẹp tài nguyên. | 05/06/2026 | 05/06/2026 | - |
+| Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
+| --- | --------- | ------------ | --------------- | -------------- |
+| 2 | - Học module CloudFormation cơ bản <br> - Viết và deploy template đơn giản | 15/06/2026 | 15/06/2026 | <https://000037.awsstudygroup.com/> |
+| 3 | - Lab CloudFormation: tạo/cập nhật/xóa stack <br> - Quan sát Drift Detection cơ bản | 16/06/2026 | 16/06/2026 | <https://000037.awsstudygroup.com/> |
+| 4 | - Học module VPC Flow Logs <br> - Bật Flow Logs và đưa log về CloudWatch | 17/06/2026 | 17/06/2026 | <https://000074.awsstudygroup.com/> |
+| 5 | - Học thêm module IAM Condition / Permission Boundary <br> - Thực hành giới hạn quyền truy cập | 18/06/2026 | 18/06/2026 | <https://000030.awsstudygroup.com/> |
+| 6 | - Tổng kết kiến thức module tuần 1–7 <br> - Dọn lab và chuẩn bị chuyển sang giai đoạn đồ án | 19/06/2026 | 19/06/2026 | - |
 
 
 ### Kết quả đạt được tuần 7:
 
-* Security Hub:
-  * Bật dịch vụ thành công và xem được điểm số bảo mật.
+* CloudFormation:
+  * Biết viết template cơ bản và triển khai stack để tạo tài nguyên tự động.
+  * Thực hành cập nhật/xóa stack và hiểu lợi ích Infrastructure as Code.
 
-* IAM Condition:
-  * Cấu hình thành công việc ép người dùng mượn quyền (switch role) đúng IP và giờ.
+* VPC Flow Logs:
+  * Bật được Flow Logs để theo dõi traffic mạng trong VPC.
+  * Đưa log về CloudWatch để quan sát và phân tích cơ bản.
 
-* IAM Boundary:
-  * Gắn thành công giới hạn quyền tối đa, User không thể tự ý vượt quyền.
-
-* VPC Endpoints:
-  * Tạo thành công các cổng mạng nội bộ (Gateway và Interface) kết nối an toàn tới S3.
-
-
+* Bảo mật & tổng kết module:
+  * Hiểu thêm cách dùng Condition/Boundary để siết quyền IAM.
+  * Hoàn thành giai đoạn học module tuần 1–7, sẵn sàng sang làm đồ án từ tuần 8.

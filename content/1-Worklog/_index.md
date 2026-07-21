@@ -7,28 +7,29 @@ pre: " <b> 1. </b> "
 ---
 
 
-This Worklog records my entire learning journey and practical work experience during the 12 weeks (3 months) of participating in the Workforce Bootcamp - First Cloud AI Journey program. The series of tasks is systematically designed to equip me with core mindset and skills in cloud computing infrastructure (AWS) combined with advanced AI solutions. Week by week, I have step-by-step gotten familiar with the system, participated in building infrastructure, optimized data flows, and deployed AI/ML models to solve real-world project problems.
 
-**Week 1:** [Getting familiar with AWS and basic AWS services](1.1-week1/)
+This Worklog records my full learning and practical journey across 12 weeks (3 months) in the Workforce Bootcamp - First Cloud AI Journey program. **Weeks 1–7** focus on AWS module learning; **weeks 8–12** focus on building and completing the project.
 
-**Week 2:** [Learn about Cloud9, S3, RDS, Lightsail, Docker and CloudWatch](1.2-week2/)
+**Week 1 (module):** [Learn rules, create an AWS account, and attend the kickoff event](1.1-week1/)
 
-**Week 3:** [Use AWS CLI, explore ElastiCache, Auto Scaling, Route 53 and DynamoDB](1.3-week3/)
+**Week 2 (module):** [Learn AWS Console, VPC, EC2 and practice labs](1.2-week2/)
 
-**Week 4:** [Secure EC2 management, CloudFront delivery and system monitoring](1.4-week4/)
+**Week 3 (module):** [Learn AWS CLI, ElastiCache Redis, Auto Scaling, and DynamoDB](1.3-week3/)
 
-**Week 5:** [Automate infrastructure (IaC) with CloudFormation, CDK and network monitoring](1.5-week5/)
+**Week 4 (module):** [Learn IAM (User, Group, Role, Policy) and enable MFA](1.4-week4/)
 
-**Week 6:** [Manage data backups, IAM permissions boundary and resource quotas](1.6-week6/)
+**Week 5 (module):** [Learn Amazon S3: buckets, access control, and Lifecycle Policy](1.5-week5/)
 
-**Week 7:** [Centralized security management, access control and private S3 network](1.7-week7/)
+**Week 6 (module):** [Learn CloudFront, Systems Manager Session Manager, and CloudWatch](1.6-week6/)
 
-**Week 8:** [Architecture orientation, data flow diagrams and budget estimation](1.8-week8/)
+**Week 7 (module):** [Learn CloudFormation, VPC Flow Logs, and advanced IAM; wrap up the module phase](1.7-week7/)
 
-**Week 9:** [Task assignment, environment setup and Backend API development](1.9-week9/)
+**Week 8 (project):** [Finalize topic, analyze requirements, and design AWS architecture](1.8-week8/)
 
-**Week 10:** [Finalize Backend programming and API testing for Identity and AI Service](1.10-week10/)
+**Week 9 (project):** [Implement core features: Avatar/S3/CloudFront and Shop foundation](1.9-week9/)
 
-**Week 11:** [ECS Container operations, FSx storage management and CI/CD automation](1.11-week11/)
+**Week 10 (project):** [Refine project flows and integrate EventBridge](1.10-week10/)
 
-**Week 12:** [Journey summary and review of basic AWS services](1.12-week12/)
+**Week 11 (project):** [Run overall testing, optimize performance and UX](1.11-week11/)
+
+**Week 12 (project):** [Review FCJ materials, finalize Hugo report/website, and prepare workshop (deadline 22/07)](1.12-week12/)
