@@ -24,6 +24,7 @@ home = [ "HTML", "RSS", "JSON"]
 [Languages]
 [Languages.en]
 title = "Internship Report"
+languageName = "English"
 weight = 1
 label = "English"
 
@@ -41,6 +42,7 @@ weight = 20
 
 [Languages.vi]
 title = "Báo cáo thực tập"
+languageName = "Tiếng Việt"
 weight = 2
 label = "Tiếng Việt"
 

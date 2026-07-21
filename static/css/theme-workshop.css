@@ -16,8 +16,8 @@
   --MENU-SECTIONS-BG-color: #1c222a; /* Background color of other sections */
   --MENU-SECTIONS-LINK-color: #ccc; /* Color of links in menu */
   --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6; /* Color of links in menu, when hovered */
-  --MENU-SECTION-ACTIVE-CATEGORY-color: #777; /* Color of active category text */
-  --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #fff; /* Color of background for the active category (only) */
+  --MENU-SECTION-ACTIVE-CATEGORY-color: #1c222a; /* Color of active category text */
+  --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #ffffff; /* Color of background for the active category (only) */
 
   --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
   --MENU-SECTION-HR-color: #20272b; /* Color of <hr> separator in menu */
@@ -142,6 +142,11 @@ a:hover {
 #sidebar ul li.active > a {
   background: var(--MENU-SECTION-ACTIVE-CATEGORY-BG-color);
   color: var(--MENU-SECTION-ACTIVE-CATEGORY-color) !important;
+  font-weight: 600;
+}
+
+#sidebar ul li.active > a b {
+  color: var(--MENU-SECTION-ACTIVE-CATEGORY-color) !important;
 }
 
 #sidebar hr {
@@ -243,16 +248,39 @@ pre {
   color: #fd9827 !important;
 }
 
-/* Keep language select compact; avoid oversized native control blob */
-#sidebar .select-style {
-  max-width: 140px;
-  vertical-align: middle;
+/* Simple language select — no oversized SVG blob */
+#sidebar #prefooter a.language-switcher {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  color: #e8e8e8 !important;
 }
 
-#sidebar .select-style select {
-  color: #e8e8e8;
-  font-size: 14px;
+#sidebar #prefooter a.language-switcher select {
+  color: #e8e8e8 !important;
+  background: #2a3340 !important;
+  border: 1px solid #4d6584;
+  border-radius: 4px;
+  font-size: 13px;
+  line-height: 1.4;
+  height: 28px;
+  padding: 2px 8px;
   max-width: 120px;
+  -webkit-appearance: auto;
+  appearance: auto;
+}
+
+#sidebar #prefooter a.language-switcher select option {
+  color: #1c222a;
+  background: #fff;
+}
+
+#sidebar #prefooter li {
+  overflow: hidden;
+}
+
+#sidebar #prefooter a.padding {
+  color: #e8e8e8 !important;
 }
 
 div.notices.info p {
