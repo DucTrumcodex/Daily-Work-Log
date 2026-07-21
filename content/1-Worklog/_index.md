@@ -8,7 +8,9 @@ pre: " <b> 1. </b> "
 
 
 
-This Worklog records my full learning and practical journey across 12 weeks (3 months) in the Workforce Bootcamp - First Cloud AI Journey program. **Weeks 1–7** focus on exploring and researching AWS services; **weeks 8–12** focus on building and completing the project.
+During the **First Cloud AI Journey – Workforce Bootcamp 2026** program, I had the opportunity to learn and practice many services on the Amazon Web Services (AWS) platform—from foundational knowledge of cloud computing, infrastructure management, security, and system monitoring to applying AWS services in designing, developing, and deploying a real-world project. In addition to completing hands-on labs along the training path, I also collaborated with team members to analyze requirements, design system architecture, develop applications, and deploy the system on AWS.
+
+The worklog below records the tasks completed, results achieved, and the learning and research process during each week of the internship. Details for each week are as follows:
 
 **Week 1:** [Explore program guidelines, create an AWS account, and attend the kickoff event](1.1-week1/)
 

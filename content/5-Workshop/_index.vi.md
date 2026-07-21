@@ -11,7 +11,7 @@ pre: " <b> 5. </b> "
 
 Chào mừng anh/ chị đã đến với tài liệu kỹ thuật của dự án **Uchimi StudyGamification**. Dự án được xây dựng với kiến trúc **ReactJS + Electron** ở phía Client và nền tảng **AWS Serverless** ở phía Server, hướng đến mục tiêu tối ưu hóa chi phí vận hành nhưng vẫn mang lại trải nghiệm học tập tuyệt vời, giúp quá trình tự học không còn gò bó hay mang tính ép buộc.
 
-* **Video Demo dự án:** [Xem Video Demo](https://www.youtube.com/watch?v=qF_5l4W5V_g)
+* **Video Demo dự án:** [Xem Video Demo](https://youtu.be/8Bw4-nwUaTc)
 * **Sơ đồ kiến trúc dự án:** ![Sơ đồ kiến trúc AWS](https://res.cloudinary.com/dqblg6ont/image/upload/v1784555384/Uchimi_StudyGamification-Uchimi_Architecture.drawio_nn9xhr.png)
 * **Mã nguồn Frontend:** [GitHub Repository - AWSStudy-Play](https://github.com/KhangChinh/AWSStudy-Play)
 * **Mã nguồn Backend:** [GitHub Repository - AWSServerless](https://github.com/KhangChinh/AWSServerless)

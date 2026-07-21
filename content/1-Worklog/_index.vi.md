@@ -8,7 +8,9 @@ pre: " <b> 1. </b> "
 
 
 
-Trang nhật ký công việc (Worklog) này ghi lại toàn bộ lộ trình học tập và làm việc thực tế của tôi trong suốt 12 tuần (3 tháng) tham gia chương trình Workforce Bootcamp - First Cloud AI Journey. Giai đoạn **tuần 1–7** tập trung tìm hiểu và nghiên cứu các dịch vụ AWS; giai đoạn **tuần 8–12** tập trung triển khai và hoàn thiện dự án.
+Trong thời gian tham gia chương trình **First Cloud AI Journey – Workforce Bootcamp 2026**, em đã có cơ hội tiếp cận và thực hành với nhiều dịch vụ trên nền tảng Amazon Web Services (AWS), từ các kiến thức nền tảng về điện toán đám mây, quản trị hạ tầng, bảo mật, giám sát hệ thống đến việc ứng dụng các dịch vụ AWS vào quá trình thiết kế, phát triển và triển khai một dự án thực tế. Bên cạnh việc hoàn thành các bài thực hành theo lộ trình đào tạo, em còn phối hợp với các thành viên trong nhóm để phân tích yêu cầu, xây dựng kiến trúc hệ thống, phát triển ứng dụng và triển khai hệ thống lên môi trường AWS.
+
+Nhật ký công việc dưới đây ghi lại những nội dung đã thực hiện, kết quả đạt được và quá trình học tập, nghiên cứu trong từng tuần thực tập. Chi tiết các tuần như sau:
 
 **Tuần 1:** [Tìm hiểu nội quy, tạo tài khoản AWS, tham gia event](1.1-week1/)
 
