@@ -23,6 +23,7 @@ pre: " <b> 1.6. </b> "
 | 4 | - Study Systems Manager - Session Manager module <br> - Connect to EC2 without opening port 22 | 10/06/2026 | 10/06/2026 | <https://000058.awsstudygroup.com/> |
 | 5 | - Study CloudWatch module (Metric, Log, Alarm) <br> - Practice creating a basic dashboard/alert | 11/06/2026 | 11/06/2026 | <https://000008.awsstudygroup.com/> |
 | 6 | - Review Week 6 modules <br> - Clean up lab resources | 12/06/2026 | 12/06/2026 | - |
+| 7 | - Attend FCAJ Soft Skills & Frontend AWS Meet <br> - Soft skills, corporate culture, CloudFront / WAF / Amplify | 13/06/2026 | 13/06/2026 | [Event 2](/4-eventparticipated/4.2-event2/) |
 
 
 ### Week 6 Achievements:
@@ -38,3 +39,8 @@ pre: " <b> 1.6. </b> "
 * CloudWatch:
   * Understood Metric, Log, and Alarm for basic resource monitoring.
   * Practiced creating a simple dashboard/alert for lab monitoring.
+
+* Community event (Saturday 13/06):
+  * Joined the FCAJ Soft Skills & Frontend AWS Meet.
+  * Learned critical thinking, communication, problem-solving, and corporate culture.
+  * Got an overview of Amazon CloudFront, Amazon WAF, and Amazon Amplify for frontend delivery.

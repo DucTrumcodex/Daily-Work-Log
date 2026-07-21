@@ -23,6 +23,7 @@ pre: " <b> 1.6. </b> "
 | 4 | - Học module Systems Manager - Session Manager <br> - Kết nối EC2 không cần mở port 22 | 10/06/2026 | 10/06/2026 | <https://000058.awsstudygroup.com/> |
 | 5 | - Học module CloudWatch (Metric, Log, Alarm) <br> - Thực hành tạo dashboard/cảnh báo cơ bản | 11/06/2026 | 11/06/2026 | <https://000008.awsstudygroup.com/> |
 | 6 | - Ôn lại các module tuần 6 <br> - Dọn dẹp tài nguyên lab | 12/06/2026 | 12/06/2026 | - |
+| 7 | - Tham gia FCAJ Soft Skills & Frontend AWS Meet <br> - Soft skills, văn hóa doanh nghiệp, CloudFront / WAF / Amplify | 13/06/2026 | 13/06/2026 | [Event 2](/4-eventparticipated/4.2-event2/) |
 
 
 ### Kết quả đạt được tuần 6:
@@ -38,3 +39,8 @@ pre: " <b> 1.6. </b> "
 * CloudWatch:
   * Hiểu Metric, Log, Alarm và cách theo dõi tài nguyên cơ bản.
   * Thực hành tạo dashboard/cảnh báo đơn giản phục vụ giám sát lab.
+
+* Sự kiện cộng đồng (Thứ 7 - 13/06):
+  * Tham gia FCAJ Soft Skills & Frontend AWS Meet.
+  * Học tư duy phản biện, giao tiếp, giải quyết vấn đề và văn hóa doanh nghiệp.
+  * Nắm tổng quan Amazon CloudFront, Amazon WAF và Amazon Amplify cho frontend.

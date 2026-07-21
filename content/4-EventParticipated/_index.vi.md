@@ -21,7 +21,7 @@ Trong quá trình thực tập, em đã tham gia các events, với mỗi event 
 
 
 
-### [Event 2](4.2-Event2/)
+### [Event 2 - Soft Skills & Frontend AWS](4.2-Event2/)
 &emsp;**Tên sự kiện:** FCAJ Soft Skills & Frontend AWS Meet
 
 &emsp;**Thời gian:** 13/06/2026
